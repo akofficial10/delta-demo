@@ -1,2 +1,7 @@
 # delta-demo
-This is Demo class.
+
+This is Demo for Git and GitHub class.
+
+# Name
+
+Ayush Kumar
